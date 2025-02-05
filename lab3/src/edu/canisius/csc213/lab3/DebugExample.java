@@ -24,7 +24,7 @@ public class DebugExample {
             SysDebugger.logRunningProcesses();
 
 	    // 3)Log the time of the crash
-	    
+	    	    
         }
 
         System.out.println("Exiting program.");
