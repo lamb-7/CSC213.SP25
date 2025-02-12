@@ -38,8 +38,9 @@ public class SysDebugger {
     }
         public static void logCurrentDateTime() {
 		// Your code goes here!
-	    System.out.println("it works?");
+	         System.out.println("=== Current Date & Time ===");
+		 System.out.println(LocalDateTime.now());
+		 System.out.println("===========================");
     } 
 
 }
-
